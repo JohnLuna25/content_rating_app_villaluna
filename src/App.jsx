@@ -10,7 +10,7 @@ import ContentRating from './Components/ContentRatingApp';
 function App() {
   return (
     <div>
-      <h1>My Content Rating App</h1>
+
       <ContentRating />
     </div>
   );
